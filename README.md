@@ -1,6 +1,6 @@
 # Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://i.ibb.co/RvLYYf6/Sem-t-tulo1.png)
+![image](https://i.ibb.co/98YNDkN/Sem-t-tulo1.png)
 
 ## Ferramentas utilizadas:
 
