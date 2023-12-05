@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://i.ibb.co/RvLYYf6/Sem-t-tulo1.png)
 
